@@ -14,6 +14,7 @@ Sou apaixonado por transformar dados brutos em inteligência de negócios e cons
 
 ## 📁 Projetos em Destaque
 
+* **[Assistente de Recomendação com IA](https://github.com):** Sistema de IA Generativa utilizando arquitetura RAG, processamento de Embeddings (Sentence-Transformers) e cálculo de similaridade vetorial com Streamlit.
 * **[Monitor de Preços IA](https://github.com):** Pipeline completo de monitoramento e previsão de preços utilizando Machine Learning (Scikit-Learn), FastAPI e Dashboard interativo em Streamlit.
 * **[Pipeline de Análise de Sentimento](https://github.com):** Sistema de processamento de linguagem natural (NLP) com modelos de Deep Learning (Transformers/BERT) para triagem inteligente de chamados de suporte.
 * **[Pipeline Medallion Databricks](https://github.com):** Engenharia de dados em larga escala utilizando PySpark e Databricks para estruturar dados seguindo a arquitetura de medalhão (Bronze, Silver e Gold).
