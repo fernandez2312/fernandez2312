@@ -6,12 +6,11 @@ Sou apaixonado por transformar dados brutos em inteligência de negócios e cons
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** Python, SQL
-* **Engenharia de Dados & Armazenamento:** SQLite3, Estruturação de Bancos de Dados Relacionais
-* **Ciência de Dados & IA:** Pandas, Scikit-Learn (Regressão Linear), Hugging Face (Transformers/BERT), PyTorch
+* **Linguagens:** Python, SQL, PySpark
+* **Engenharia de Dados & Big Data:** Databricks, Arquitetura Medalhão (Bronze, Silver, Gold), Apache Spark
+* **Bancos de Dados & Armazenamento:** MySQL, SQLite3
+* **Ciência de Dados & IA:** Pandas, Scikit-Learn, Hugging Face (Transformers/BERT), PyTorch
 * **Desenvolvimento de Aplicações IA:** FastAPI, Uvicorn, Streamlit, Plotly, Requisições de APIs (JSON)
-
-## 📁 Projetos em Destaque
 
 ## 📁 Projetos em Destaque
 
