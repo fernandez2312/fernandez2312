@@ -13,8 +13,12 @@ Sou apaixonado por transformar dados brutos em inteligência de negócios e cons
 
 ## 📁 Projetos em Destaque
 
-* **[Monitor de Preços IA](https://github.com):** Pipeline completo de monitoramento e previsão de preços utilizando Machine Learning, FastAPI e Dashboard interativo em Streamlit.
-* **[Pipeline de Análise de Sentimento](https://github.com):** Sistema de processamento de linguagem natural (NLP) com modelos de Deep Learning (Transformers) para triagem inteligente de chamados de suporte.
+## 📁 Projetos em Destaque
+
+* **[Monitor de Preços IA](https://github.com):** Pipeline completo de monitoramento e previsão de preços utilizando Machine Learning (Scikit-Learn), FastAPI e Dashboard interativo em Streamlit.
+* **[Pipeline de Análise de Sentimento](https://github.com):** Sistema de processamento de linguagem natural (NLP) com modelos de Deep Learning (Transformers/BERT) para triagem inteligente de chamados de suporte.
+* **[Pipeline Medallion Databricks](https://github.com):** Engenharia de dados em larga escala utilizando PySpark e Databricks para estruturar dados seguindo a arquitetura de medalhão (Bronze, Silver e Gold).
+* **[Análise de Risco de Crédito](https://github.com):** Análise preditiva e manipulação de dados financeiros integrando consultas robustas em MySQL e modelagem estatística em Python.
 
 ---
 
