@@ -45,22 +45,22 @@ Sou apaixonado por transformar dados brutos em inteligência de negócios e cons
 
 ## 🚀 Projetos em Destaque
 
-### 🧠 [Assistente de Recomendação com IA](LINK_DO_REPOSITORIO)
+### 🧠 [Assistente de Recomendação com IA](https://github.com/fernandez2312/assistente-recomendacao-ia)
 * **Descrição:** Sistema de IA Generativa utilizando arquitetura RAG (*Retrieval-Augmented Generation*), processamento de Embeddings (`Sentence-Transformers`) e cálculo de similaridade vetorial.
 * **Interface:** Dashboard interativo construído em Streamlit.
 
-### 📊 [Monitor de Preços IA](LINK_DO_REPOSITORIO)
+### 📊 [Monitor de Preços IA](https://github.com/fernandez2312/monitor-precos-ia)
 * **Descrição:** Pipeline completo de monitoramento e previsão de preços utilizando algoritmos de Machine Learning (`Scikit-Learn`).
 * **Backend & UI:** API desenvolvida com FastAPI e Dashboard visual em Streamlit.
 
-### 💬 [Pipeline de Análise de Sentimento](LINK_DO_REPOSITORIO)
+### 💬 [Pipeline de Análise de Sentimento](https://github.com/fernandez2312/pipeline-analise-sentimento)
 * **Descrição:** Sistema de processamento de linguagem natural (NLP) focado na triagem inteligente de chamados de suporte ao cliente.
 * **Modelos:** Modelos de Deep Learning baseados em Transformers (`BERT`).
 
-### 🧱 [Pipeline Medallion Databricks](LINK_DO_REPOSITORIO)
+### 🧱 [Pipeline Medallion Databricks](https://github.com/fernandez2312/pipeline-medallion-databricks)
 * **Descrição:** Engenharia de dados em larga escala utilizando `PySpark` e `Databricks` para estruturar dados seguindo a arquitetura de medalhão (Bronze, Silver e Gold).
 
-### 📈 [Análise de Risco de Crédito](LINK_DO_REPOSITORIO)
+### 📈 [Análise de Risco de Crédito](https://github.com/fernandez2312/Analise-risco-credito-mySQL)
 * **Descrição:** Modelação estatística e preditiva para análise e manipulação de dados financeiros de forma a prever riscos de inadimplência, integrando consultas robustas em MySQL.
 
 ---
