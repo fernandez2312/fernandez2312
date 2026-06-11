@@ -68,12 +68,8 @@ Sou apaixonado por transformar dados brutos em inteligência de negócios e cons
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandez2312&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandez2312&layout=compact&theme=visual_studio_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandez2312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandez2312&theme=tokyonight" alt="Streak do GitHub" />
 </p>
 
 ---
-
-<p align="center">
-  Sinta-se à vontade para explorar os meus repositórios e conectar-se comigo! 😊
-</p>
