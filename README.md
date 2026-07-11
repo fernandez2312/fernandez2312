@@ -72,6 +72,6 @@ Sou apaixonado por transformar dados brutos em inteligência de negócios e cons
 
 ## Estatísticas do GitHub
 
-![Metrics](github-metrics/github-metrics.svg)
+![Metrics](github-metrics.svg)
 
 ---
